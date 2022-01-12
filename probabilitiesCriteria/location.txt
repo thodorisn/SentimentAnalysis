@@ -1,0 +1,30 @@
+Probability given the review is ABSOLUTELY PERFECT with 5 bubbles and related to location word: 29.20%
+Probability given the review is ABSOLUTELY PERFECT with 4 bubbles and related to location word: 13.76%
+Probability given the review is ABSOLUTELY PERFECT with 3 bubbles and related to location word: 4.43%
+Probability given the review is ABSOLUTELY PERFECT with 2 bubbles and related to location word: 1.07%
+Probability given the review is ABSOLUTELY PERFECT with 1 bubbles and related to location word: 0.56%
+
+Probability given the review is PERFECT with 5 bubbles and related to location word: 8.50%
+Probability given the review is PERFECT with 4 bubbles and related to location word: 12.53%
+Probability given the review is PERFECT with 3 bubbles and related to location word: 16.12%
+Probability given the review is PERFECT with 2 bubbles and related to location word: 7.19%
+Probability given the review is PERFECT with 1 bubbles and related to location word: 4.68%
+
+Probability given the review is FAIR ENOUGH with 5 bubbles and related to location word: 5.19%
+Probability given the review is FAIR ENOUGH with 4 bubbles and related to location word: 9.34%
+Probability given the review is FAIR ENOUGH with 3 bubbles and related to location word: 16.34%
+Probability given the review is FAIR ENOUGH with 2 bubbles and related to location word: 9.34%
+Probability given the review is FAIR ENOUGH with 1 bubbles and related to location word: 8.82%
+
+Probability given the review is MANY THINGS NEEDS TO GET BETTER with 5 bubbles and related to location word: 4.32%
+Probability given the review is MANY THINGS NEEDS TO GET BETTER with 4 bubbles and related to location word: 5.77%
+Probability given the review is MANY THINGS NEEDS TO GET BETTER with 3 bubbles and related to location word: 17.09%
+Probability given the review is MANY THINGS NEEDS TO GET BETTER with 2 bubbles and related to location word: 10.71%
+Probability given the review is MANY THINGS NEEDS TO GET BETTER with 1 bubbles and related to location word: 11.12%
+
+Probability given the review is DISASTER with 5 bubbles and related to location word: 0.75%
+Probability given the review is DISASTER with 4 bubbles and related to location word: 2.61%
+Probability given the review is DISASTER with 3 bubbles and related to location word: 9.79%
+Probability given the review is DISASTER with 2 bubbles and related to location word: 13.67%
+Probability given the review is DISASTER with 1 bubbles and related to location word: 22.19%
+

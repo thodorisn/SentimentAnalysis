@@ -1,0 +1,36 @@
+Criteria word: LOCATION
+In how many reviews word LOCATION and its synonyms appeared : 5036
+In how many reviews the score was over 90% matching with the word location and its synonyms : 4749
+
+Criteria word: STAFF
+In how many reviews word STAFF and its synonyms appeared : 5736
+In how many reviews the score was over 90% matching with the word staff and its synonyms : 5681
+
+Criteria word: BREAKFAST
+In how many reviews word BREAKFAST and its synonyms appeared : 3887
+In how many reviews the score was over 90% matching with the word breakfast and its synonyms : 3758
+
+Criteria word: QUIET
+In how many reviews word QUIET and its synonyms appeared : 1079
+In how many reviews the score was over 90% matching with the word quiet and its synonyms : 1010
+
+Criteria word: BED
+In how many reviews word BED and its synonyms appeared : 2435
+In how many reviews the score was over 90% matching with the word bed and its synonyms : 1244
+
+Criteria word: CLEANLINESS
+In how many reviews word CLEANLINESS and its synonyms appeared : 4096
+In how many reviews the score was over 90% matching with the word cleanliness and its synonyms : 3555
+
+Criteria word: ROOM SPACE
+In how many reviews word ROOM SPACE and its synonyms appeared : 101
+In how many reviews the score was over 90% matching with the word large room and its synonyms: 80
+
+Criteria word: PARKING
+In how many reviews word PARKING and its synonyms appeared : 307
+In how many reviews the score was over 90% matching with the word parking and its synonyms: 300
+
+Criteria word: INTERIOR DESIGN
+In how many reviews word INTERIOR DESIGN and its synonyms appeared : 911
+In how many reviews the score was over 90% matching with the word interior design and its synonyms: 404
+

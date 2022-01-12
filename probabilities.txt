@@ -1,0 +1,39 @@
+Probability of bubble being 1 to 5,give the result is 'ABSOLUTELY PERFECT'
+
+The probability of bubble being '5' given the result is 'ABSOLUTELY PERFECT' is : 59.57%
+The probability of bubble being '4' given the result is 'ABSOLUTELY PERFECT' is : 28.07%
+The probability of bubble being '3' given the result is 'ABSOLUTELY PERFECT' is : 9.04%
+The probability of bubble being '2' given the result is 'ABSOLUTELY PERFECT' is : 2.17%
+The probability of bubble being '1' given the result is 'ABSOLUTELY PERFECT' is : 1.14%
+
+Probability of bubble being 1 to 5,give the result is 'PERFECT'
+
+The probability of bubble being '5' given the result is 'PERFECT' is : 17.33%
+The probability of bubble being '4' given the result is 'PERFECT' is : 25.56%
+The probability of bubble being '3' given the result is 'PERFECT' is : 32.89%
+The probability of bubble being '2' given the result is 'PERFECT' is : 14.67%
+The probability of bubble being '1' given the result is 'PERFECT' is : 9.56%
+
+Probability of bubble being 1 to 5,give the result is 'FAIR ENOUGH'
+
+The probability of bubble being '5' given the result is 'FAIR ENOUGH' is : 10.58%
+The probability of bubble being '4' given the result is 'FAIR ENOUGH' is : 19.05%
+The probability of bubble being '3' given the result is 'FAIR ENOUGH' is : 33.33%
+The probability of bubble being '2' given the result is 'FAIR ENOUGH' is : 19.05%
+The probability of bubble being '1' given the result is 'FAIR ENOUGH' is : 17.99%
+
+Probability of bubble being 1 to 5,give the result is 'MANY THINGS NEEDS TO GET BETTER'
+
+The probability of bubble being '5' given the result is 'MANY THINGS NEEDS TO GET BETTER' is : 8.82%
+The probability of bubble being '4' given the result is 'MANY THINGS NEEDS TO GET BETTER' is : 11.76%
+The probability of bubble being '3' given the result is 'MANY THINGS NEEDS TO GET BETTER' is : 34.87%
+The probability of bubble being '2' given the result is 'MANY THINGS NEEDS TO GET BETTER' is : 21.85%
+The probability of bubble being '1' given the result is 'MANY THINGS NEEDS TO GET BETTER' is : 22.69%
+
+Probability of bubble being 1 to 5,give the result is 'DISASTER'
+
+The probability of bubble being '5' given the result is 'DISASTER' is : 1.52%
+The probability of bubble being '4' given the result is 'DISASTER' is : 5.34%
+The probability of bubble being '3' given the result is 'DISASTER' is : 19.97%
+The probability of bubble being '2' given the result is 'DISASTER' is : 27.90%
+The probability of bubble being '1' given the result is 'DISASTER' is : 45.27%

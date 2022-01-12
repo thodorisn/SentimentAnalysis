@@ -1,0 +1,30 @@
+Probability given the review is ABSOLUTELY PERFECT with 5 bubbles and related to staff word: 33.26%
+Probability given the review is ABSOLUTELY PERFECT with 4 bubbles and related to staff word: 15.67%
+Probability given the review is ABSOLUTELY PERFECT with 3 bubbles and related to staff word: 5.04%
+Probability given the review is ABSOLUTELY PERFECT with 2 bubbles and related to staff word: 1.21%
+Probability given the review is ABSOLUTELY PERFECT with 1 bubbles and related to staff word: 0.64%
+
+Probability given the review is PERFECT with 5 bubbles and related to staff word: 9.68%
+Probability given the review is PERFECT with 4 bubbles and related to staff word: 14.27%
+Probability given the review is PERFECT with 3 bubbles and related to staff word: 18.36%
+Probability given the review is PERFECT with 2 bubbles and related to staff word: 8.19%
+Probability given the review is PERFECT with 1 bubbles and related to staff word: 5.33%
+
+Probability given the review is FAIR ENOUGH with 5 bubbles and related to staff word: 5.91%
+Probability given the review is FAIR ENOUGH with 4 bubbles and related to staff word: 10.63%
+Probability given the review is FAIR ENOUGH with 3 bubbles and related to staff word: 18.61%
+Probability given the review is FAIR ENOUGH with 2 bubbles and related to staff word: 10.63%
+Probability given the review is FAIR ENOUGH with 1 bubbles and related to staff word: 10.04%
+
+Probability given the review is MANY THINGS NEEDS TO GET BETTER with 5 bubbles and related to staff word: 4.93%
+Probability given the review is MANY THINGS NEEDS TO GET BETTER with 4 bubbles and related to staff word: 6.57%
+Probability given the review is MANY THINGS NEEDS TO GET BETTER with 3 bubbles and related to staff word: 19.47%
+Probability given the review is MANY THINGS NEEDS TO GET BETTER with 2 bubbles and related to staff word: 12.20%
+Probability given the review is MANY THINGS NEEDS TO GET BETTER with 1 bubbles and related to staff word: 12.67%
+
+Probability given the review is DISASTER with 5 bubbles and related to staff word: 0.85%
+Probability given the review is DISASTER with 4 bubbles and related to staff word: 2.98%
+Probability given the review is DISASTER with 3 bubbles and related to staff word: 11.15%
+Probability given the review is DISASTER with 2 bubbles and related to staff word: 15.57%
+Probability given the review is DISASTER with 1 bubbles and related to staff word: 25.27%
+
